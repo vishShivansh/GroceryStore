@@ -2,9 +2,31 @@
 # 🛒 Grocery Store Website  
 > A responsive and interactive grocery store web application built with HTML, CSS, and JavaScript.  
 
-![GitHub stars](https://img.shields.io/github/stars/vishShivansh/GroceryStore?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/vishShivansh/GroceryStore?style=social)  
-![License](https://img.shields.io/badge/license-MIT-green)  
+## 🖼 Screenshots 
+![Demo Screenshot](ReadmeImage.png)
+
+<h3 align="center">
+    🔹
+    <a href="https://github.com/vishShivansh/GroceryStore/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/vishShivansh/GroceryStore/issues">Request Feature</a>
+</h3>
+
+### Connect With Me
+
+<p align="start">
+  <a href="https://www.linkedin.com/in/shivansh-gupta-54ba2a226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/vish._shivansh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -14,7 +36,6 @@
 - [Tech Stack](#-tech-stack)  
 - [Installation](#-installation)  
 - [Usage](#-usage)  
-- [Screenshots](#-screenshots)  
 - [Contributing](#-contributing)  
 - [License](#-license)  
 - [Author](#-author)  
@@ -55,10 +76,11 @@ git clone https://github.com/vishShivansh/GroceryStore.git
 # Navigate into the project folder
 cd GroceryStore
 
-# Open the project
-start index.html   # (Windows)
-open index.html    # (Mac)
+# Open in Live Server (Run this command to start the project with auto-reload)
+npx live-server
 ```
+👉 The project will open in your browser at:
+http://127.0.0.1:8080
 
 ---
 
@@ -67,12 +89,6 @@ open index.html    # (Mac)
 2. Browse products, categories, and reviews.  
 3. Add/remove items from the cart.  
 4. Login form available for authentication demo.  
-
----
-
-## 🖼 Screenshots  
-
-_Add screenshots here once hosted or after running locally._  
 
 ---
 
@@ -92,7 +108,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## 👨‍💻 Author  
-- Shivansh Gupta  
-- [Portfolio](https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app/)  
+- Shivansh Gupta (vishShivansh)
+- [Portfolio](https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app)  
 - [GitHub](https://github.com/vishShivansh)  
-- [LinkedIn](https://linkedin.com/in/yourusername)  
+- [LinkedIn](https://www.linkedin.com/in/shivansh-gupta-54ba2a226)  
+- [Instagram](https://www.instagram.com/vish._shivansh)  
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+[![GitHub stars](https://img.shields.io/github/stars/vishShivansh/GroceryStore?style=social)](https://github.com/vishShivansh/GroceryStore/stargazers)
